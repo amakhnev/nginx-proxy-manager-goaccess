@@ -12,11 +12,11 @@ My way of setting up nginx proxy manager and goaccess to monitor traffic.
 
 1. Clone this repo, cd into the directory
 
-2. Run `docker compose up -d`
+2. Run `docker-compose up -d`
 
 3. Go to `http://<host>:7880` to access goaccess
 
-4. To delete all containers and volumes run `docker compose down -v`
+4. To delete all containers and volumes run `docker-compose down -v`
 
 ## 
 
